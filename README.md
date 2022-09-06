@@ -1,2 +1,1 @@
-# firstcode
-hello world
+console.log("welcome to Github");
